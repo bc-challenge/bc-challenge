@@ -1,7 +1,10 @@
-# bc-challenge
 
+运行 
+ts-node bc-ch.ts
 
+```
 New Block Forged: {
+
   index: 2,
   timestamp: 1756347440984,
   transactions: [
@@ -151,3 +154,4 @@ Full Blockchain: [
   }
 ]
 length : 3
+```
